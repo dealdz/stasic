@@ -584,13 +584,13 @@ body {
 }
 
 .carousel .dislike {
-    background-image: url(../images/icon-dislike.svg);
+    background-image: url(https://raw.githubusercontent.com/dealdz/stasic/main/uploads/icon-dislike.svg);
     background-size: 22px auto;
 }
 
 .carousel .like {
     background-color: #9560FD;
-    background-image: url(../images/icon-like.svg);
+    background-image: url(https://raw.githubusercontent.com/dealdz/stasic/main/uploads/icon-like.svg);
     background-size: 36px auto;
     background-position: center top 17px;
 }
